@@ -1,0 +1,74 @@
+.add-btn{
+    background-color: #c63928;
+    border: none;
+    color: white;
+    padding: 15px 35px;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+ }       
+ .start-btn{
+     background-color: #fcd835;
+     border: 3px solid#3367fb;
+     color: #2a61fb;
+     padding: 15px 25px;
+     font-family: 'Gugi', cursive; 
+     cursor: pointer;
+  
+ }
+
+ .login-btn{
+     background-image: linear-gradient(to right, #5cd1d3 , #a5d487);
+     color: white;
+     padding:10px 35px;
+     border-radius: 50px;
+     border: none;
+     font-family: 'Montserrat', sans-serif;
+     cursor: pointer;
+     
+ }
+ .signup-btn{
+     color: #6749ea;
+     border: 3px solid #6749ea;
+     background-color: #ffffff;
+     padding: 15px;
+     font-family: 'Montserrat', sans-serif;
+     border-radius: 10px;
+     cursor: pointer;
+ }
+.subscribe-btn{
+background-color: goldenrod;
+border:2px solid #f49f32;
+color: white;
+padding: 15px 35px;
+font-family: 'Montserrat', sans-serif;
+border-radius: 4px;
+background-image: linear-gradient(to bottom,#f9c033, #f5a232);
+cursor: pointer;
+}
+ 
+.icon-color{
+color:#37a1f3;
+
+}
+.icon{
+    border-radius: 100%;
+    background-color: white;
+    border:2px solid#37a1f3;
+    cursor: pointer;
+}
+
+*{ 
+margin: 25px;
+font-size: 18px;
+text-align: center;
+}
+
+
+div{
+    background-color: #ffffff;
+    margin: 25% 30px;
+     
+}
+body{
+   background-color:rgb(223, 213, 213);
+}
